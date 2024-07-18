@@ -43,7 +43,7 @@ Clone the repository:
 
 ### sh
 
-git clone https://github.com/your-username/food-order-project.git
+git clone https://github.com/Mourad9-mh/order-food.git
 Navigate to the project directory:
 
 ### sh
